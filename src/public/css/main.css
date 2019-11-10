@@ -1,0 +1,26 @@
+body {
+ background-image: url('../img/donuts.png')
+}
+
+.nav {
+  background-color: transparent !important;
+  color:black;
+}
+.rosquilla {
+  width: 80%;
+}
+.rosquilla2{
+  width: 50%;
+}
+.camion{
+  width:50%;
+}
+.fondo-salmon{
+  background-color: #FA8072;
+}
+.color-light-coral{
+  color: #F08080;
+}
+.color-indian-red {
+  color:#CD5C5C;
+}
